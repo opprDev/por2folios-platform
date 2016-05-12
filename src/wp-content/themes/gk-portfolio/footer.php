@@ -24,8 +24,8 @@
 		<div id="gk-copyrights">
 			<?php do_action('portfolio_credits'); ?>
 			
-			<p class="copyright"><?php _e('Free WordPress Theme designed by ','portfolio'); ?> <a href="https://www.gavick.com/">GavickPro.com</a></p>
-			<p class="poweredby"><?php _e('Proudly published with ','portfolio'); ?> <a href="http://wordpress.org/">WordPress</a></p>
+			<p class="copyright"><?php _e('© 2016 Instituto Superior T&eacute;cnico <span>&nbsp;•&nbsp;</span> Proudly Powered by ','portfolio'); ?> <a href="http://calli.tech/">CalliTech</a></p>
+			<p class="poweredby"><?php _e('Developed by ','portfolio'); ?> <a href="http://dev.calli.tech/">CalliTechDev Team</a></p>
 		</div><!-- .site-info -->
 	</footer><!-- end of #gk-footer -->
 	

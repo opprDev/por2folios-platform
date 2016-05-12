@@ -165,7 +165,7 @@ msgid   "Font options"
 msgstr  ""
 
 #: footer.php:27
-msgid   "Free WordPress Theme designed by "
+msgid   "© 2016 Instituto Superior T&eacute;cnico Proudly Powered by "
 msgstr  ""
 
 #: theme-customizer.php:814
@@ -355,7 +355,7 @@ msgid   "Primary Color"
 msgstr  ""
 
 #: footer.php:28
-msgid   "Proudly published with "
+msgid   "Developed by "
 msgstr  ""
 
 #: content-video.php:21 content-video.php:26 content-video.php:28
